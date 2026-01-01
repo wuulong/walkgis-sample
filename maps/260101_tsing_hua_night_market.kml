@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>清大夜市散步地圖</name>
@@ -8,112 +8,112 @@
       <name>立晉傳統豆花</name>
       <description>清夜必吃甜品，招牌是綿密如泡泡冰的糖水冰沙搭配軟嫩豆花。</description>
       <Point>
-        <coordinates>120.994787,24.797967,0</coordinates>
+        <coordinates>120.9983978,24.7968636,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>小洞天</name>
       <description>在地經典必吃，米腸包香腸配上爽口小黃瓜。</description>
       <Point>
-        <coordinates>120.9995,24.799797,0</coordinates>
+        <coordinates>120.9990578,24.7967452,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>懷香臭臭鍋</name>
       <description>學生與小資族的最愛，臭豆腐與湯頭口味獨特。</description>
       <Point>
-        <coordinates>120.99507,24.79708,0</coordinates>
+        <coordinates>120.9988518,24.796453,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>清大雙囍餛飩老虎麵</name>
       <description>近三十年老店，招牌老虎麵辣勁十足，餛飩飽滿扎實。</description>
       <Point>
-        <coordinates>120.997,24.798,0</coordinates>
+        <coordinates>120.9965787,24.7980131,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>吳記蔥蔬餅</name>
       <description>餅皮加入大量蔬菜與蔥，煎得外酥內軟，份量十足。</description>
       <Point>
-        <coordinates>120.99471,24.79815,0</coordinates>
+        <coordinates>120.9982133,24.7965548,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>蔥大爺餅舖 (阿婆蔥油餅)</name>
       <description>原阿婆蔥油餅相關，餅皮薄脆，刷上特製辣醬是精華。</description>
       <Point>
-        <coordinates>120.99723,24.79951,0</coordinates>
+        <coordinates>120.9974454,24.798642,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>大鼓肉夾饃</name>
       <description>人氣新店，外皮酥脆千層，孜然肉餡香氣濃郁。</description>
       <Point>
-        <coordinates>121.000373,24.799014,0</coordinates>
+        <coordinates>120.9967356,24.797161,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>車輪餅爺爺</name>
       <description>脆皮車輪餅，餡料大方，紅豆與奶油是經典。</description>
       <Point>
-        <coordinates>121.0005,24.7998,0</coordinates>
+        <coordinates>120.996726,24.7983329,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>羅記東山鴨頭</name>
       <description>入味且外皮微酥，鴨皮與鴨脖子是熱門品項。</description>
       <Point>
-        <coordinates>121.0005,24.7998,0</coordinates>
+        <coordinates>120.9980953,24.7972398,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>郭董脆皮臭豆腐 (老港陳?)</name>
       <description>清夜內的脆皮臭豆腐選擇，外酥內嫩。</description>
       <Point>
-        <coordinates>120.998248,24.798759,0</coordinates>
+        <coordinates>120.998071,24.7980111,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>日荃蒸餃</name>
       <description>高CP值蒸餃，皮薄餡多，搭配酸辣湯是絕配。</description>
       <Point>
-        <coordinates>120.997,24.798,0</coordinates>
+        <coordinates>120.996726,24.7983329,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>紅吱吱牛排館</name>
       <description>平價牛排首選，提供豐富自助吧，學生最愛。</description>
       <Point>
-        <coordinates>120.998592,24.795499,0</coordinates>
+        <coordinates>120.9971777,24.7967986,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>鳳荷三鮮</name>
       <description>位於清大校內小吃部，羊肉料理湯頭清甜順口。</description>
       <Point>
-        <coordinates>120.9934,24.7935,0</coordinates>
+        <coordinates>120.993,24.7935,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>飯丸屋 (清大店)</name>
       <description>沖繩握飯糰專賣，午餐肉與厚蛋組合超受歡迎。</description>
       <Point>
-        <coordinates>120.99732,24.79815,0</coordinates>
+        <coordinates>120.9975,24.7975,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>黃記豆花</name>
       <description>推薦酒釀系列，酒釀蛋與豆花風味獨特。</description>
       <Point>
-        <coordinates>120.997972,24.798089,0</coordinates>
+        <coordinates>120.9968,24.7973,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>豆戀迷 Do Re Mi</name>
       <description>綠豆湯、紅豆湯專賣，推薦加QQ粉角。</description>
       <Point>
-        <coordinates>120.996767,24.799778,0</coordinates>
+        <coordinates>120.9973,24.7979,0</coordinates>
       </Point>
     </Placemark>
   </Document>

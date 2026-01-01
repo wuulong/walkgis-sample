@@ -1,6 +1,8 @@
 ---
 id: example_feature
 tags: [範例, 地標]
+coordinate: [25.0339, 121.5645]
+
 ---
 # 台北101
 
